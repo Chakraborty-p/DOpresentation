@@ -1,12 +1,14 @@
-# Title
+# Hierarchy
+# The Good, The Bad and The Evil
 
-* Point 1
-* Point 2
+Paromita Chakraborty and Wassim Kraouch
+
+22.10.2020
 
 ---
 
-## Second slide
+# Hierarchy
 
-> Best quote ever.
+A system in which people or things are arranged according to their importance.
 
-Note: speaker notes FTW!
+(Cambridge dictionary)
