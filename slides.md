@@ -1,5 +1,5 @@
 # Hierarchy
-# The Good, The Bad and The Evil
+## The Good, The Bad and The Evil
 
 Paromita Chakraborty and Wassim Kraouch
 
