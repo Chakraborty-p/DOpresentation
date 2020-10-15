@@ -38,3 +38,43 @@ Meaning:
 Example:
 
 ---
+
+The Good… (advantage)
+
+(Picture)
+
+---
+
+# Hierarchical organizational structure
+
+Defined level of leadership 
+Clear career path and promotion
+Promotes specialization
+Creates loyalty in departments
+
+---
+
+Flat organizational structure (Wassim)
+
+
+
+The Bad…(disadvantage)
+
+Hierarchical organizational structure
+
+
+Centralized power structure
+Communication barrier
+Increased organization’s cost
+Decision making relatively slow
+
+
+Flat organizational structure (Wassim)
+
+
+
+The Evil…(very disadvantage)
+
+Hierarchical organizational structure
+
+Flat organizational structure (Wassim)
