@@ -14,3 +14,4 @@ A system in which people or things are arranged according to their importance.
 (Cambridge dictionary)
 
 ---
+# Hierarchical organizational structure
