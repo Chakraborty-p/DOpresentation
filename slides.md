@@ -33,7 +33,7 @@ Example: Amazon
 
 Picture + meaning + example
 
-Picture: I will draw it
+Picture: I will draw 
 
 Meaning:
 
