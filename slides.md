@@ -29,18 +29,6 @@ Example: Amazon
 
 ---
 
-# Flat organizational structure (Wassim)
-
-Picture + meaning + example
-
-Picture: I will draw it
-
-Meaning:
-
-Example:
-
----
-
 # The Good… (advantage)
 
 (Picture)
@@ -53,10 +41,6 @@ Defined level of leadership
 Clear career path and promotion
 Promotes specialization
 Creates loyalty in departments
-
----
-
-# Flat organizational structure (Wassim)
 
 ---
 
@@ -73,11 +57,6 @@ Centralized power structure
 Communication barrier
 Increased organization’s cost
 Decision making relatively slow
-
----
-
-# Flat organizational structure (Wassim)
-
 
 ---
 
@@ -98,6 +77,44 @@ Violence, suicide, and murder
 
 # Flat organizational structure (Wassim)
 
+Picture + meaning + example
+
+Picture: I will draw it
+
+Meaning:
+
+Example:
+
+---
+
+# The Good… (advantage)
+
+(Picture)
+
+---
+
+# Flat organizational structure (Wassim)
+
+---
+
+# The Bad…(disadvantage)
+
+(Picture)
+
+---
+
+# Flat organizational structure (Wassim)
+
+---
+
+# The Evil…(very disadvantage)
+
+(Picture)
+
+---
+
+# Flat organizational structure (Wassim)
+
 ---
 
 # Reference
@@ -106,4 +123,3 @@ https://hbr.org/2003/03/why-hierarchies-thrive
 https://ecorner.stanford.edu/articles/hierarchy-is-good-hierarchy-is-essential-and-less-isnt-always-better/
 https://www.forbes.com/sites/sebastianbailey/2014/03/19/is-hierarchy-helping-or-harming-your-organization-2/#6232a7e56e40
 https://www.researchgate.net/publication/295368506_The_Dark_Side_of_Organization
-
