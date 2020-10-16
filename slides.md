@@ -29,6 +29,21 @@ Example: Amazon
 
 ---
 
+<<<<<<< HEAD
+=======
+# Flat organizational structure (Wassim)
+
+Picture + meaning + example
+
+Picture: I will draw 
+
+Meaning:
+
+Example:
+
+---
+
+>>>>>>> b35a95a2d12358926c0e985afea17a7efcca483f
 # The Good… (advantage)
 
 (Picture)
@@ -123,3 +138,5 @@ https://hbr.org/2003/03/why-hierarchies-thrive
 https://ecorner.stanford.edu/articles/hierarchy-is-good-hierarchy-is-essential-and-less-isnt-always-better/
 https://www.forbes.com/sites/sebastianbailey/2014/03/19/is-hierarchy-helping-or-harming-your-organization-2/#6232a7e56e40
 https://www.researchgate.net/publication/295368506_The_Dark_Side_of_Organization
+
+---
