@@ -35,7 +35,7 @@ Example: Amazon
 
 # The Good… (advantage)
 
-(Picture)
+![Good.jpg](Good.jpg)
 
 ---
 
