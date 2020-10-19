@@ -17,7 +17,7 @@ Professor: Dr. Ulrich Anders
 
 There are two types of organizational structure:
 1. Hierarchical organizational structure
-1.  Flat organizational structure 
+1. Flat organizational structure 
 
 ---
 
@@ -90,8 +90,8 @@ Example:
 ---
 * It elevates the employees' level of responsibility in the organization
 * It Allows Clear Communication
-*Faster Decision Making
-*It Is Cost Efficient
+* Faster Decision Making
+* It Is Cost Efficient
 ---
 
 ## Flat organizational structure (Wassim)
@@ -103,7 +103,7 @@ Example:
 ---
 * lack a specific boss to report to
 * Flat organizations tend to produce a lot of generalists but no specialists
-*Flat structure may limit long-term growth of an organization
+* Flat structure may limit long-term growth of an organization
 ---
 
 ## Flat organizational structure (Wassim)
