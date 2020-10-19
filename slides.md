@@ -19,7 +19,7 @@ A system in which people or things are arranged according to their importance.
 
 There are two types of organizational structure:
 1. Hierarchical organizational structure
-1.  Flat organizational structure 
+1. Flat organizational structure 
 
 ---
 
