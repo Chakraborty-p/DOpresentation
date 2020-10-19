@@ -23,7 +23,7 @@ There are two types of organizational structure:
 
 ---
 
-## Hierarchical organizational structure (ME)
+## 1. Hierarchical organizational structure
 
 Meaning: 
 
@@ -39,7 +39,7 @@ Example: Amazon
 
 ---
 
-## Hierarchical organizational structure (Me)
+## Hierarchical organizational structure
 
 * Defined level of leadership 
 * Clear career path and promotion
@@ -52,7 +52,7 @@ Example: Amazon
 
 ---
 
-## Hierarchical organizational structure (Me)
+## Hierarchical organizational structure
 
 
 * Centralized power structure
@@ -66,7 +66,7 @@ Example: Amazon
 
 ---
 
-## Hierarchical organizational structure (Me)
+## Hierarchical organizational structure
 
 * Corruption, exploitation, and organizational crime
 * Abuse of power and intimidation
@@ -75,7 +75,7 @@ Example: Amazon
 
 ---
 
-## Flat organizational structure (Wassim)
+## 2. Flat organizational structure (Wassim)
 
 Meaning:
 
