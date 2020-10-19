@@ -89,25 +89,25 @@ Example:
 ![Good.jpg](Good.jpg)
 
 ---
+
+## Flat organizational structure (Wassim)
+
 * It elevates the employees' level of responsibility in the organization
 * It Allows Clear Communication
 * Faster Decision Making
 * It Is Cost Efficient
----
-
-## Flat organizational structure (Wassim)
 
 ---
 
 ![Bad.jpg](Bad.jpg)
 
 ---
+
+## Flat organizational structure (Wassim)
+
 * lack a specific boss to report to
 * Flat organizations tend to produce a lot of generalists but no specialists
 * Flat structure may limit long-term growth of an organization
----
-
-## Flat organizational structure (Wassim)
 
 ---
 
