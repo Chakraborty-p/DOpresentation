@@ -115,18 +115,20 @@ Example:
 ---
 # Reference
 
-* Leavitt, H. (2003). Why hierarchies thrive.
+Leavitt, H. (2003). Why hierarchies thrive.
 
-  [https://hbr.org/2003/03/why-hierarchies-thrive](https://hbr.org/2003/03/why-hierarchies-thrive)
+[https://hbr.org/2003/03/why-hierarchies-thrive](https://hbr.org/2003/03/why-hierarchies-thrive)
 
-* Sutton, B. (2016). Hierarchy is good. hierarchy is essential. And less isn’t always better. 
+Sutton, B. (2016). Hierarchy is good. hierarchy is essential. And less isn’t always better. 
 
-  [https://ecorner.stanford.edu/articles/hierarchy-is-good-hierarchy-is-essential-and-less-isnt-always-better/](https://ecorner.stanfohierarchy-is-good-hierarchy-is-essential-and-less-isnt-always-better/)
+[https://ecorner.stanford.edu/articles/hierarchy-is-good-hierarchy-is-essential-and-less-isnt-always-better/](https://ecorner.stanfohierarchy-is-good-hierarchy-is-essential-and-less-isnt-always-better/)
 
-* Bailey, S. (2014). Is hierarchy helping or harming your organization?
+---
 
-  [https://www.forbes.com/sites/sebastianbailey/2014/03/19/is-hierarchy-helping-or-harming-your-organization-2/#6232a7e56e40] (https://www.forbes.com/sites/sebastianbailey/2014/03/19/is-hierarchy-helping-or-harming-your-organization-2/#6232a7e56e40)
+Bailey, S. (2014). Is hierarchy helping or harming your organization?
 
-* Linstead et al. (2010). The Dark Side of Organization. 
+[https://www.forbes.com/sites/sebastianbailey/2014/03/19/is-hierarchy-helping-or-harming-your-organization-2/#6232a7e56e40](https://www.forbes.com/sites/sebastianbailey/2014/03/19/is-hierarchy-helping-or-harming-your-organization-2/#6232a7e56e40)
 
-  [https://www.researchgate.net/publication/295368506_The_Dark_Side_of_Organization](https://www.researchgate.net/publication/295368506_The_Dark_Side_of_Organization)
+Linstead et al. (2010). The Dark Side of Organization. 
+
+[https://www.researchgate.net/publication/295368506_The_Dark_Side_of_Organization](https://www.researchgate.net/publication/295368506_The_Dark_Side_of_Organization)
