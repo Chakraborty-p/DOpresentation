@@ -29,7 +29,7 @@ Meaning:
 
 ---
 
-Picture
+![Hierarchy.jpg](Hierarchy.jpg)
 
 Example: Amazon
 
@@ -81,8 +81,7 @@ Meaning:
 
 
 ---
-
-Picture
+![Flat.jpg](Flat.jpg)
 
 Example:
 
