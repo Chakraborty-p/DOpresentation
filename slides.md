@@ -123,7 +123,8 @@ Example:
 ## Question
 
 ---
-### Reference
+
+# References
 
 Leavitt, H. (2003). Why hierarchies thrive.
 
