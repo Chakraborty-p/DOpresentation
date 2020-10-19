@@ -11,13 +11,15 @@ Professor: Dr. Ulrich Anders
 
 # Hierarchy
 
+A system in which people or things are arranged according to their importance.
 
+(Cambridge dictionary)
 
 ---
 
 There are two types of organizational structure:
 1. Hierarchical organizational structure
-1. Flat organizational structure 
+1.  Flat organizational structure 
 
 ---
 
@@ -77,7 +79,6 @@ Example: Amazon
 
 Meaning:
 
-
 ---
 ![Flat.jpg](Flat.jpg)
 
@@ -88,25 +89,25 @@ Example:
 ![Good.jpg](Good.jpg)
 
 ---
-
-## Flat organizational structure (Wassim)
-
 * It elevates the employees' level of responsibility in the organization
 * It Allows Clear Communication
 * Faster Decision Making
 * It Is Cost Efficient
+---
+
+## Flat organizational structure (Wassim)
 
 ---
 
 ![Bad.jpg](Bad.jpg)
 
 ---
-
-## Flat organizational structure (Wassim)
-
-* Lack a specific boss to report to
+* lack a specific boss to report to
 * Flat organizations tend to produce a lot of generalists but no specialists
 * Flat structure may limit long-term growth of an organization
+---
+
+## Flat organizational structure (Wassim)
 
 ---
 
@@ -121,7 +122,6 @@ Example:
 ## Question
 
 ---
-
 # References
 
 Leavitt, H. (2003). Why hierarchies thrive.
@@ -133,6 +133,10 @@ Sutton, B. (2016). Hierarchy is good. hierarchy is essential. And less isn’t a
 [https://ecorner.stanford.edu/articles/hierarchy-is-good-hierarchy-is-essential-and-less-isnt-always-better/](https://ecorner.stanfohierarchy-is-good-hierarchy-is-essential-and-less-isnt-always-better/)
 
 ---
+
+Bailey, S. (2014). Is hierarchy helping or harming your organization?
+
+[https://www.forbes.com/sites/sebastianbailey/2014/03/19/is-hierarchy-helping-or-harming-your-organization-2/#6232a7e56e40](https://www.forbes.com/sites/sebastianbailey/2014/03/19/is-hierarchy-helping-or-harming-your-organization-2/#6232a7e56e40)
 
 Linstead et al. (2010). The Dark Side of Organization. 
 
