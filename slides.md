@@ -101,12 +101,12 @@ Example:
 ![Bad.jpg](Bad.jpg)
 
 ---
+
+## Flat organizational structure (Wassim)
+
 * Lack a specific boss to report to
 * Flat organizations tend to produce a lot of generalists but no specialists
 * Flat structure may limit long-term growth of an organization
----
-
-## Flat organizational structure (Wassim)
 
 ---
 
