@@ -18,16 +18,16 @@ A system in which people or things are arranged according to their importance.
 ---
 
 We will be presenting two types of hierarchies (structure) in an organization:
-1. Hierarchical or Traditional organizational structure
+1. Traditional or Hierarchical organizational structure
 1. Flat organizational structure 
 
 ---
 
-## 1. Hierarchical organizational structure
+## 1. Traditional organizational structure
 
-A hierarchical organization structure refers to the chain of command that exist in a company. This line of common follows an order from senior management and executives to general employees.
-* People with higher authority generally have more power and control than the person reporting them.
-* Hierarchical structure is relatively found in large organization.
+A traditional organization structure refers to the chain of command that exist in a company. This line of common follows an order from senior management and executives to general employees.
+* People with higher authority generally have more power and control than the person reporting to them.
+* Traditional structure is relatively found in large organization.
 
 ---
 
@@ -40,7 +40,7 @@ Example: **_Amazon_**
 
 ---
 
-## Hierarchical organizational structure
+## Traditional organizational structure
 
 * Defined level of leadership 
 * Clear career path and promotion
@@ -53,7 +53,7 @@ Example: **_Amazon_**
 
 ---
 
-## Hierarchical organizational structure
+## Traditional organizational structure
 
 
 * Centralized power structure
@@ -67,7 +67,7 @@ Example: **_Amazon_**
 
 ---
 
-## Hierarchical organizational structure
+## Traditional organizational structure
 
 * Corruption, exploitation, and organizational crime
 * Abuse of power and intimidation
