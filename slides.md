@@ -25,8 +25,9 @@ There are two types of hierarchies (structure) in an organization:
 
 ## 1. Hierarchical organizational structure
 
-A hierarchical organization structure refers to the chain of command that exist in a company. This line of common follows an order from senior management and executives to general employees. Hierarchical structure is relatively found in large organization.
-
+A hierarchical organization structure refers to the chain of command that exist in a company. This line of common follows an order from senior management and executives to general employees.
+* Hierarchical structure is relatively found in large organization.
+* People with higher authority generally have more power and control than the person reporting them.
 
 ---
 
