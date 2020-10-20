@@ -17,22 +17,22 @@ A system in which people or things are arranged according to their importance.
 
 ---
 
-There are two types of organizational structure:
-1. Hierarchical organizational structure
+There are two types of hierarchies (structure) in an organization:
+1. Hierarchical or Traditional organizational structure
 1. Flat organizational structure 
 
 ---
 
 ## 1. Hierarchical organizational structure
 
-A hierarchical organization structure refers to the chain of command that exist in a company. It is line that follow an order from senior management and executives to general employees.
+A hierarchical organization structure refers to the chain of command that exist in a company. This line of common follows an order from senior management and executives to general employees. Hierarchical structure is relatively found in large organization.
+
 
 ---
 
 ![Hierarchy.jpg](Hierarchy.jpg)
 
 Example: **_Amazon_**
-
 ---
 
 ![Good.jpg](Good.jpg)
@@ -73,6 +73,7 @@ Example: **_Amazon_**
 * Harassment and discrimination  
 * Violence, suicide, and murder 
 
+Example: **_Enron_**
 ---
 
 ## 2. Flat organizational structure (Wassim)
@@ -105,7 +106,7 @@ Example:
 
 ## Flat organizational structure (Wassim)
 
-* lack a specific boss to report to
+* Lack a specific boss to report to
 * Flat organizations tend to produce a lot of generalists but no specialists
 * Flat structure may limit long-term growth of an organization
 
