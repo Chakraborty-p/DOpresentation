@@ -17,7 +17,7 @@ A system in which people or things are arranged according to their importance.
 
 ---
 
-There are two types of hierarchies (structure) in an organization:
+We will be presenting two types of hierarchies (structure) in an organization:
 1. Hierarchical or Traditional organizational structure
 1. Flat organizational structure 
 
