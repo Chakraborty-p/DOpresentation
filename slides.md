@@ -132,7 +132,7 @@ Example:**_Valve_**
 
 
 ---
-# References
+## References
 
 Leavitt, H. (2003). Why hierarchies thrive. Retrieved 15.10.20 from [https://hbr.org/2003/03/why-hierarchies-thrive](https://hbr.org/2003/03/why-hierarchies-thrive)
 
