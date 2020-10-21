@@ -98,7 +98,7 @@ Example:
 * It Allows Clear Communication
 * Faster Decision Making
 * It Is Cost Efficient
-
+* Higher creativity and innovation
 ---
 
 ![Bad.jpg](Bad.jpg)
@@ -110,7 +110,7 @@ Example:
 * Lack a specific boss to report to
 * Flat organizations tend to produce a lot of generalists but no specialists
 * Flat structure may limit long-term growth of an organization
-
+* Larger organizations struggle to adapt the flat structure, unless the company divides into smaller, more manageable units.
 ---
 
 ![Evil.jpeg](Evil.jpeg)
@@ -119,9 +119,15 @@ Example:
 
 ## Flat organizational structure
 
+* Hidden layers of powerful management
+* sexual harassment
 ---
 
 ## Question
+
+* What do you think about hierarchy and flat structures? 
+* What experience you had with one of these organizational structures.
+
 
 ---
 # References
