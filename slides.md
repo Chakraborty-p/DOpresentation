@@ -151,9 +151,10 @@ Example:
 
 ---
 
-* Linstead et al. (2010). The Dark Side of Organization. Retrieved 16.10.20 from [https://www.researchgate.net/publication/295368506_The_Dark_Side_of_Organization](https://www.researchgate.net/publication/295368506_The_Dark_Side_of_Organization)
+Linstead et al. (2010). The Dark Side of Organization. Retrieved 16.10.20 from 
+[https://www.researchgate.net/publication/295368506_The_Dark_Side_of_Organization](https://www.researchgate.net/publication/295368506_The_Dark_Side_of_Organization)
 
-* R. Mayhew, Reviewed by: J. Thompson (Updated October 20, 2018), Disadvantages of a Flat Organizational Structure.
+R. Mayhew, Reviewed by: J. Thompson (Updated October 20, 2018), Disadvantages of a Flat Organizational Structure.
 [https://bizfluent.com/list-7425327-disadvantages-flat-organizational-structure.html](https://bizfluent.com/list-7425327-disadvantages-flat-organizational-structure.html)
 
 ---
