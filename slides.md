@@ -134,7 +134,7 @@ Example:
 
 * Gaille, B. (2018). 15 Hierarchical organizational structure advantages and disadvantages. Retrieved 16.10.20 from [https://brandongaille.com/15-hierarchical-organizational-structure-advantages-and-disadvantages/](https://brandongaille.com/15-hierarchical-organizational-structure-advantages-and-disadvantages/)
 
-* NA, (2020). Amazon. [https://www.forbes.com/companies/amazon/#246bbaa56fb8](https://www.forbes.com/companies/amazon/#246bbaa56fb8) (Checked Amazon's employee numbers.)
+* NA, (2020). Amazon. Retrieved 21.10.20 from [https://www.forbes.com/companies/amazon/#246bbaa56fb8](https://www.forbes.com/companies/amazon/#246bbaa56fb8) (Checked Amazon's employee numbers.)
 
 ---
 
