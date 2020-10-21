@@ -79,12 +79,14 @@ Example: **_Enron_**
 
 ## 2. Flat organizational structure
 
-Meaning:
+A flat organization is an organization model known by:
+* Few layers between staff level employees and executives
+* Promoting productivity and creativity in the staff level employees by decentralizing the decision-making process
 
 ---
 ![Flat.jpg](Flat.jpg)
 
-Example:
+Example:**_Valve_**
 
 ---
 
@@ -119,7 +121,7 @@ Example:
 
 ## Flat organizational structure
 
-* Hidden layers of powerful management
+* Hidden layers of management
 * sexual harassment
 ---
 
