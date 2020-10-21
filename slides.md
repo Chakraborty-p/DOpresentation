@@ -153,10 +153,19 @@ Case study "Enron - Were they the crookedest guys in the room?". Provided by Pro
 Linstead et al. (2010). The Dark Side of Organization. Retrieved 16.10.20 from 
 [https://www.researchgate.net/publication/295368506_The_Dark_Side_of_Organization](https://www.researchgate.net/publication/295368506_The_Dark_Side_of_Organization)
 
-R. Mayhew, Reviewed by: J. Thompson (Updated October 20, 2018), Disadvantages of a Flat Organizational Structure.
+Mayhew, R. Reviewed by: Thompson, J. (Updated October 20, 2018), Disadvantages of a Flat Organizational Structure.
 [https://bizfluent.com/list-7425327-disadvantages-flat-organizational-structure.html](https://bizfluent.com/list-7425327-disadvantages-flat-organizational-structure.html)
 
 ---
 
-A.	Spicer (2018), No bosses, no managers: the truth behind the ‘flat hierarchy’ façade.
+Spicer, A. (2018). No bosses, no managers: the truth behind the ‘flat hierarchy’ façade.
 [https://www.theguardian.com/commentisfree/2018/jul/30/no-bosses-managers-flat-hierachy-workplace-tech-hollywood](https://www.theguardian.com/commentisfree/2018/jul/30/no-bosses-managers-flat-hierachy-workplace-tech-hollywood)
+
+---
+
+# Github accounts
+
+* [https://github.com/Chakraborty-p](https://github.com/Chakraborty-p)
+
+* [https://github.com/wassimkraouch](https://github.com/wassimkraouch)
+
