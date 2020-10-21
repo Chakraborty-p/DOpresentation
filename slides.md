@@ -123,10 +123,10 @@ Example:
 * sexual harassment
 ---
 
-## Question
+## Questions
 
 * What do you think about hierarchy and flat structures? 
-* What experience you had with one of these organizational structures.
+* What experience you had with one of these organizational structures?
 
 
 ---
@@ -137,13 +137,15 @@ Example:
 * Sutton, B. (2016). Hierarchy is good. hierarchy is essential. And less isn’t always better. Retrieved 15.10.20 from [https://ecorner.stanford.edu/articles/hierarchy-is-good-hierarchy-is-essential-and-less-isnt-always-better/](https://ecorner.stanfohierarchy-is-good-hierarchy-is-essential-and-less-isnt-always-better/)
 
 ---
-* Satyendra, (2013). Comparison between hierarchical and flat organization structures. Retrieved 16.10.20 from [https://www.ispatguru.com/comparison-between-hierarchical-and-flat-organization-structures/#:~:text=Hierarchical%20structure%20is%20normally%20adopted,management%20between%20executives%20and%20staff](https://www.ispatguru.com/comparison-between-hierarchical-and-flat-organization-structures/#:~:text=Hierarchical%20structure%20is%20normally%20adopted,management%20between%20executives%20and%20staff)
+* Satyendra, (2013). Comparison between hierarchical and flat organization structures. Retrieved 16.10.20 from [https://www.ispatguru.com/comparison-between-hierarchical-and-flat-organization-structures/](https://www.ispatguru.com/comparison-between-hierarchical-and-flat-organization-structures/)
 
 * Gaille, B. (2018). 15 Hierarchical organizational structure advantages and disadvantages. Retrieved 16.10.20 from [https://brandongaille.com/15-hierarchical-organizational-structure-advantages-and-disadvantages/](https://brandongaille.com/15-hierarchical-organizational-structure-advantages-and-disadvantages/)
 
 ---
 
 * Cain, A. and Peterson, H. (2020). Two charts show Amazon's explosive growth as the tech giant prepares to add 133,000 workers amid record online sales. Retrieved 20.10.20 from [https://www.businessinsider.com/amazon-number-of-employees-workforce-workers-2020-9?r=DE&IR=T](https://www.businessinsider.com/amazon-number-of-employees-workforce-workers-2020-9?r=DE&IR=T) (Checked Amazon's employee numbers.)
+
+---
 
 * Dudovskiy, J. (2020). Amazon organizational structure: A brief overview. Retrieved 20.10.20 from [https://research-methodology.net/amazon-organizational-structure-2-2/](https://research-methodology.net/amazon-organizational-structure-2-2/) (Checked Amazon's organizational structure)
 
