@@ -128,9 +128,8 @@ Example: **_Valve_**
 
 ---
 
-## Questions
-
-* What do you think about hierarchy and flat structures? 
+## Question
+ 
 * What experience you had with one of these organizational structures?
 
 ---
