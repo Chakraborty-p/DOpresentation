@@ -80,14 +80,15 @@ Example: **_Enron_**
 ## 2. Flat organizational structure
 
 A flat organization is an organization model known by:
+
 * Few layers between staff level employees and executives
 * Promoting productivity and creativity in the staff level employees by decentralizing the decision-making process
 
 ---
+
 ![Flat.jpg](Flat.jpg)
 
-Example:**_Valve_**
-
+Example: **_Valve_**
 ---
 
 ![Good.jpg](Good.jpg)
@@ -101,6 +102,7 @@ Example:**_Valve_**
 * Faster Decision Making
 * It Is Cost Efficient
 * Higher creativity and innovation
+
 ---
 
 ![Bad.jpg](Bad.jpg)
@@ -113,6 +115,7 @@ Example:**_Valve_**
 * Flat organizations tend to produce a lot of generalists but no specialists
 * Flat structure may limit long-term growth of an organization
 * Larger organizations struggle to adapt the flat structure, unless the company divides into smaller, more manageable units.
+
 ---
 
 ![Evil.jpeg](Evil.jpeg)
@@ -123,13 +126,13 @@ Example:**_Valve_**
 
 * Hidden layers of management
 * sexual harassment
+
 ---
 
 ## Questions
 
 * What do you think about hierarchy and flat structures? 
 * What experience you had with one of these organizational structures?
-
 
 ---
 ## References
