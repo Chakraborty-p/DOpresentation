@@ -55,7 +55,6 @@ Example: **_Amazon_**
 
 ## Hierarchical organizational structure
 
-
 * Slow to react to new opportunities
 * Communication barrier
 * Increased organization’s cost
