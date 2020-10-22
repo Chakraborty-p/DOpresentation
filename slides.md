@@ -169,7 +169,7 @@ Spicer, A. (2018). No bosses, no managers: the truth behind the ‘flat hierarch
 
 # Github accounts
 
-* [https://github.com/Chakraborty-p](https://github.com/Chakraborty-p)
+* [Chakraborty Paromita](https://github.com/Chakraborty-p)
 
-* [https://github.com/wassimkraouch](https://github.com/wassimkraouch)
+* [Kraouch Wassim Oussama](https://github.com/wassimkraouch)
 
